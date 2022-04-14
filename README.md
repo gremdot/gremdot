@@ -3,7 +3,7 @@ I love to code and learn what I do not yet know. I currently study fulltime as a
 
 ##
 ### What I'm Currently Developing:
-* **School Project** - A Farm Sim inspired Pathfinding Algorithm combined with Time elements. [Repository](https://github.com/forsbergsskola-se/gp21-22-0209-algodata-gremdot).
+* **School Project** - A Farm Sim inspired Pathfinding Algorithm combined with Time elements. [Repository](https://github.com/forsbergsskola-se/gp21-21-0406-boolnumbers-gremdot).
 * **Side Project** - A Unity Snake game. Using C# for the mechanics as well as my own art for the graphics. [Link Coming...](https://github.com/gremdot)
 
 ##
